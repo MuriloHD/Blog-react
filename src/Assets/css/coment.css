@@ -1,0 +1,28 @@
+.posts {
+    margin-top: 5px;
+    border-style:solid;
+    border-color:#e7a01d;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+form{
+    display:grid;
+    grid-template-rows: 33.3% 33.3% 33.3%; 
+    width: 50%;
+    height: 80%;
+    margin-left: 25%;
+    padding-top:0%;
+    padding-bottom:10px;
+}
+.exibir >input {
+    margin: 10px;
+    padding: 2px;
+    width: 41%
+}
+.exibir > span{
+    margin: 20px;
+}

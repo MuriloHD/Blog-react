@@ -1,0 +1,41 @@
+footer {
+    background-color: #e7a01d;
+    color: white;
+    display: flex;
+    flex-direction: line;
+    justify-content:center;
+    align-items: flex-start;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    position:relative;
+    width: 100%;
+    
+    
+    bottom: 0;
+}
+footer > img{
+        width: 50px;
+        padding-top: 10px;
+    
+}
+footer > p{
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-right: 15px;
+}
+
+footer > a{
+    padding-top: 20px;
+    padding-left: 10px;
+    text-decoration:none;
+    color: white;
+
+
+}
+
+footer > p:hover,a:hover{
+    color: black;
+}
+
+html, body{height: 100%;}
+
